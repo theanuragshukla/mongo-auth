@@ -1,5 +1,5 @@
 {
-  "name": "mongoauth",
+  "name": "mongo-authify",
   "version": "0.0.1",
   "description": "",
   "main": "./src/index.js",
