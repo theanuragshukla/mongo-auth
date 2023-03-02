@@ -1,0 +1,26 @@
+{
+  "name": "mongoauth",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theanuragshukla/mongo-auth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theanuragshukla/mongo-auth/issues"
+  },
+  "homepage": "https://github.com/theanuragshukla/mongo-auth#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.0",
+    "nodemailer": "^6.9.1"
+  }
+}
