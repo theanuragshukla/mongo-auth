@@ -1,4 +1,4 @@
-# mongo-auth
+# mongo-authify
 mongo-authify is an npm package that provides a simple authentication system for your MongoDB database. It allows you to easily manage user signup, login, and password reset functionality with a customizable schema for user data validation.
 
 ## installation

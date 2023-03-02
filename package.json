@@ -1,10 +1,10 @@
 {
   "name": "mongo-authify",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "Authentication for noobs using MongoDB",
   "main": "./src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "repository": {
     "type": "git",
